@@ -5,7 +5,7 @@
 layout: home
 ---
 
-{% include SurfacePlot.html %}
+<!-- {% include SurfacePlot.html %} -->
 <!-- <p align="center">
   <img width="300" height="300" src="images/SceneSetup.jpg">
 </p> -->

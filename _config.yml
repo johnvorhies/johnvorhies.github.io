@@ -22,7 +22,7 @@ title: Light Fields
 email: jrv19@zips.uakron.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A site for light field research conducted during my master's program at The University of Akron.
-baseurl: "/LightFields" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://johnvorhies.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  johnvorhies

@@ -32,6 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Change order of site pages
+header_pages:
+  - about.markdown
+  - introduction.md
+  - cameragantry.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

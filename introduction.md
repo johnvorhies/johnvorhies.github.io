@@ -11,7 +11,7 @@ $$ \begin{equation} \label{eq:plen} P(x,y,z,\theta,\phi,\lambda,\tau) \end{equat
 Where $$ x,y,z $$ is the position of the viewer in 3-D space, $$ \theta, \phi $$ are the azimuthal and polar angles of the incoming light ray, respectively, $$ \lambda $$ is the wavelength of the light, and $$ \tau $$ is time. The collection of all light rays in a scene is referred to as a *light field*. The plenoptic function can be reduced to four dimensions by using the *two-plane parameterization*:
 
 <p align="center">
-  <img width="300" height="300" src="../images/stuv.png">
+  <img width="300" height="316" src="../images/stuv.png">
 </p>
 
 In this perspective, light rays are modeled as their point of intersection of two planes. $$(u,v)$$ denote the coordinates of intersection on the green plane, and $$(s,t)$$ are the coordinates of intersection on the red plane. The distance between the two planes, $$ d $$, is dependent on the camera model used to capture the light field. Most literature refers to light fields by this parameterization, $$l(s,t,u,v)$$.
@@ -25,13 +25,13 @@ It is also possible to use a single camera to capture a light field image. In th
 To extract depth from a light field image, you need to look at how a row or column of pixels changes across a row or column of sub-aperture views.
 
 <p align="center">
-  <img width="300" height="300" src="../images/EPISlice.png">
+  <img width="300" height="294" src="../images/EPISlice.png">
 </p>
 
 Here's an example of a light field image. If you select the row of pixels in red across the row of sub-aperture views and stack them on top of each other, you arrive at a new 2-D image called an *epi-polar plane image* (EPI):
 
 <p align="center">
-  <img width="300" height="300" src="../images/TarotSmallEPI.png">
+  <img width="328" height="300" src="../images/TarotSmallEPI.png">
 </p>
 
 As you can see, an EPI shows the same row (column) of pixels from a row (column) of sub-aperture views. The position of the pixels are shifted slightly across each view, forming lines of different slopes. The slopes of these lines indicate the depth of the object that the pixels belong to. These lines are governed by the equations

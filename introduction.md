@@ -34,7 +34,7 @@ Here's an example of a light field image. If you select the row of pixels in red
   <img width="300" height="300" src="../images/TarotSmallEPI.png">
 </p>
 
-As you can see, an EPI shows the same row (column) of pixels from a row (column) of sub-aperture views. The position of the pixels are shifty slightly across each view, forming lines of different slopes. The slopes of these lines indicate the depth of the object that the pixels belong to. These lines are governed by the equations
+As you can see, an EPI shows the same row (column) of pixels from a row (column) of sub-aperture views. The position of the pixels are shifted slightly across each view, forming lines of different slopes. The slopes of these lines indicate the depth of the object that the pixels belong to. These lines are governed by the equations
 
 $$
 \begin{equation}

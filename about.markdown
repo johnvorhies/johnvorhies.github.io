@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![image](../images/Headshot.jpg){: style="float: left; margin-right: 2em;"}
+I'm a master's student in electrical engineering at The University of Akron in Akron, Ohio. I also received my bachelor's in computer engineering with a minor in applied mathematics at UA. I enjoy researching cutting edge techniques and applying them to difficult problems.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+I have a variety of interests in the field of electrical and computer engineering:
+- Signal and image processing
+- Computer vision
+- Wireless communication
+- Embedded systems and FPGAs
+- Machine Learning
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My master's research is focused on light field image processing algorithms and hardware architectures. Light field images generate large amounts of data, so algorithms of low computational complexity are necessary for real-time storage and processing.
 
-
-[jekyll-organization]: https://github.com/jekyll
+This site has an introduction to light fields, along with a few projects I've worked on throughout my master's research. Code repositories for projects are included at the bottom of each page.

@@ -29,3 +29,7 @@ Calibration techniques similar to [plane + parallax calibration](http://lightfie
   <img width="600" height="426" src="../images/rectEPI.png">
 </p>
 
+# Code Repository
+[LightField-CameraArrayCalibration](https://github.com/johnvorhies/LightField-CameraArrayCalibration)
+
+[LightField-CameraGantry](https://github.com/johnvorhies/LightField-CameraGantry)

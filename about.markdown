@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-![image](../images/Headshot.jpg){: style="float: left; margin-right: 2em;"}
+![image](../images/Headshot.jpg){: style="float: left; margin-right: 1em;"}
 I'm a master's student in electrical engineering at The University of Akron in Akron, Ohio. I also received my bachelor's in computer engineering with a minor in applied mathematics at UA. I enjoy researching cutting edge techniques and applying them to difficult problems.
 
 <p>&nbsp;</p>

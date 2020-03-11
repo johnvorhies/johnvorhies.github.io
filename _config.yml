@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Light Fields
+title: John Vorhies
 email: jrv19@zips.uakron.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A site for light field research conducted during my master's program at The University of Akron.
@@ -31,6 +31,7 @@ github_username: johnvorhies
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Change order of site pages
 header_pages:

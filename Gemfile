@@ -19,6 +19,8 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.11.0"
 end
 
+# Redirect home page to another section
+gem "jekyll-redirect-from"
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do

@@ -5,14 +5,15 @@
 <!-- layout: home -->
 layout: page
 title: About
+redirect_from:
+  - /about
 ---
 
-![image](../images/Headshot.jpg){: style="float: left; margin-right: 1em;"}
+<p align="center">
+  <img src="../images/Headshot.jpg">
+</p>
 I'm a master's student in electrical engineering at The University of Akron in Akron, Ohio. I also received my bachelor's in computer engineering with a minor in applied mathematics at UA. I enjoy researching cutting edge techniques and applying them to difficult problems.
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 I have a variety of interests in the field of electrical and computer engineering:
 - Signal and image processing
 - Computer vision

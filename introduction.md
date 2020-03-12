@@ -14,6 +14,7 @@ Where $$ x,y,z $$ is the position of the viewer in 3-D space, $$ \theta, \phi $$
   <img width="300" height="316" src="../images/stuv.png">
 </p>
 
+
 In this perspective, light rays are modeled as their point of intersection of two planes. $$(u,v)$$ denote the coordinates of intersection on the green plane, and $$(s,t)$$ are the coordinates of intersection on the red plane. The distance between the two planes, $$ d $$, is dependent on the camera model used to capture the light field. Most literature refers to light fields by this parameterization, $$l(s,t,u,v)$$.
 
 # Camera Models

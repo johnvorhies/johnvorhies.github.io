@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-![image](../images/Headshot.jpg){: style="float: left; margin-right: 1em;"}
+<!-- ![image](../images/Headshot.jpg){: style="float: left; margin-right: 1em;"}
 I'm a master's student in electrical engineering at The University of Akron in Akron, Ohio. I also received my bachelor's in computer engineering with a minor in applied mathematics at UA. I enjoy researching cutting edge techniques and applying them to difficult problems.
 
 <p>&nbsp;</p>
@@ -19,4 +19,4 @@ I have a variety of interests in the field of electrical and computer engineerin
 
 My master's research is focused on light field image processing algorithms and hardware architectures. Light field images generate large amounts of data, so algorithms of low computational complexity are necessary for real-time storage and processing.
 
-This site has an introduction to light fields, along with a few projects I've worked on throughout my master's research. Code repositories for projects are included at the bottom of each page.
+This site has an introduction to light fields, along with a few projects I've worked on throughout my master's research. Code repositories for projects are included at the bottom of each page. -->
